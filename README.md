@@ -5,7 +5,7 @@ Predicts medicine sales based on prior disease patterns using  ML pipeline.
 Predicts **medicine sales demand** using **disease outbreak patterns**, with an interactive **Streamlit dashboard** supporting Regression, Classification, Clustering, Anomaly Detection, Forecasting, Explainability, Trends & NLP.
 
 📄 **Project Report**: [View Report](YOUR_REPORT_LINK)  
-📊 **Live Dashboard**: [Launch Dashboard](YOUR_STREAMLIT_LINK)  
+📊 **Live Dashboard**: [Launch Dashboard](https://minorai-medicine-sales.streamlit.app/)  
 🎥 **Video Demo & Presentation**: [Watch Demo](YOUR_VIDEO_LINK)
 
 ---
