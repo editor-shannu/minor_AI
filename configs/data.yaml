@@ -1,0 +1,11 @@
+# CHANGE HERE: Update these paths to YOUR CSV files
+disease_data_path: "data/disease_cases.csv"
+sales_data_path: "data/medicine_sales.csv"
+
+features:
+  - cases
+  - disease_trend
+  - month
+  - year
+
+target: sales_volume

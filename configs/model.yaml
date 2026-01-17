@@ -1,0 +1,4 @@
+model_type: rf
+n_estimators: 100
+random_state: 42
+test_size: 0.2
