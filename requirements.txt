@@ -1,5 +1,8 @@
+streamlit==1.26.1
+
 pandas==2.1.4
-numpy==1.24.3
+numpy==1.26.4
+
 scikit-learn==1.3.2
 joblib==1.3.2
 matplotlib==3.8.2
@@ -15,5 +18,6 @@ pytrends==4.9.2
 # BERT Sentiment
 transformers==4.36.2
 torch==2.1.2
+
+# Forecasting
 prophet==1.1.5
-streamlit==1.26.1

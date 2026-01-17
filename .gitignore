@@ -59,7 +59,7 @@ models/
 # Data files (optional)
 # -----------------------------
 # If you want to keep CSVs in git, comment these lines
-data/*.csv
+# data/*.csv
 data/*.xlsx
 data/*.xls
 
