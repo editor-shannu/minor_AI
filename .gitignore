@@ -98,4 +98,4 @@ secrets.toml
 # -----------------------------
 Desktop.ini
 
-data/*.csv
+# data/*.csv
